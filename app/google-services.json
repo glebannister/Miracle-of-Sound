@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350016408796",
+    "firebase_url": "https://miracleofsound-ee5a6.firebaseio.com",
+    "project_id": "miracleofsound-ee5a6",
+    "storage_bucket": "miracleofsound-ee5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350016408796:android:a553c589dc961311",
+        "android_client_info": {
+          "package_name": "android.example.musicshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350016408796-b3r9gmeb4vfa2nr7v8rk4v70cbsl9mce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.musicshop",
+            "certificate_hash": "35f08a03eefaa87fbab51f741b3003760cafc1e4"
+          }
+        },
+        {
+          "client_id": "350016408796-4v3u4ikgk1jqdoifni4k46gde622bop5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXa8cmHz8HxLosmtbrgJjWhuHsY8xHr0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350016408796-4v3u4ikgk1jqdoifni4k46gde622bop5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
